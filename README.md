@@ -5,5 +5,5 @@
 [Lab 02: ](https://github.com/SarayuBurugu/AIML-2025/blob/main/Untitled2.ipynb)Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python.
 
 
-[Lab 04:] (https://github.com/SarayuBurugu/AIML-2025/blob/main/lab4.ipynb)Implement Linear Regression using Boston Housing Data
+[Lab 04:](https://github.com/SarayuBurugu/AIML-2025/blob/main/lab4.ipynb)Implement Linear Regression using Boston Housing Data
 
