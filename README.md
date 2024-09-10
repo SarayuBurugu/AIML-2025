@@ -8,7 +8,7 @@ Lab 03: Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithm
 
 [Lab 04:](https://github.com/SarayuBurugu/AIML-2025/blob/main/lab4.ipynb)Implement Linear Regression using Boston Housing Data
 
-[Lab 05:]() Implement Logistic Regression using Titanic Ship Data
+[Lab 05:](https://github.com/SarayuBurugu/AIML-2025/blob/main/lab5.ipynb) Implement Logistic Regression using Titanic Ship Data
 
 Lab 06: Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 
